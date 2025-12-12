@@ -13,9 +13,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
-    "preview": "vite preview",
-    "vercel-build": "npx vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
   }
